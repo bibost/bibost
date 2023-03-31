@@ -1,4 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hi! I'm Boban Stevanović 😉:</h1>
+<a href="#bibost-title">
+  <img src="./img/python.gif" alt="bibost" align="right", width='50', height ='50' />
+ </a>
 <h3 align="left">I am a student, currently doing my Bachelor's in Artificial Intelligence! 🤖</h3>
 
 <p align="left">
