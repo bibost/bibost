@@ -8,6 +8,10 @@
 </p>
 
 <a href="#bibost-title">
+  <img src="https://media0.giphy.com/media/ojo7phd1NQJSE/giphy.gif" alt="bibost" align="center", width='100%', height = 150px/>
+</a> 
+
+<a href="#bibost-title">
   <img src="https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bibost" align="right" />
 </a> 
 
@@ -18,9 +22,9 @@
 
 <br>
 
-<h2 align="left" id="bibost-tech">Favorite Tech</h2>
+<h2 align="left" id="bibost-tech">Tech Stack</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I love working with.
 
 <table>
   <tr>
