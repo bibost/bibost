@@ -12,7 +12,7 @@
 </a> 
 
 - 👨‍💼: &nbsp;I'm currently working at **[Netcetera]**
-- :rocket: &nbsp;I’m currently learning **Pytorch**
+- :rocket: &nbsp;I’m currently learning **Pytorch**🔥
 - :speech_balloon: &nbsp;I like to talk about **AI**, **Fitness**, **Business** and **Finance**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="96">
       <a href="#bibost-tech">
-        <img src="./img/Pytorch_logo_icon.svg" width="48" height="48" alt="Pytorch" />
+        <img src="./img/PyTorch_logo_icon.svg" width="48" height="48" alt="Pytorch" />
       </a>
       <br>Pytorch
     </td>
