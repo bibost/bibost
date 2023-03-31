@@ -52,6 +52,7 @@
     <td align="center" width="96">
       <a href="#bibost-tech">
         🐼
+        <br>
       </a>
       <br>Pandas
     </td>
