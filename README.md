@@ -8,7 +8,7 @@
 </p>
 
 <a href="#bibost-title">
-  <img src="./img/ai.gif" alt="bibost" align="center", width='100px', height = 100px/>
+  <img src="./img/ai.gif" alt="bibost" align="center", width='150', height ='150' />
 </a> 
 
 <a href="#bibost-title">
