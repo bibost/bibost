@@ -7,12 +7,8 @@
   </a>
 </p>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js">
-<lottie-player src="<URL HERE>" background="transparent"  speed="1"  style="width: 50; height: 50;" loop controls autoplay></lottie-player>
-</script>
-
 <a href="#bibost-title">
-  <img src="https://assets1.lottiefiles.com/packages/lf20_4kx2q32n.json" alt="bibost" align="center", width='100%', height = 50px/>
+  <img src=".img/ai.gif" alt="bibost" align="center", width='100%', height = 50px/>
 </a> 
 
 <a href="#bibost-title">
