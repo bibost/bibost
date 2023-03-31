@@ -7,9 +7,6 @@
   </a>
 </p>
 
-<a href="#bibost-title">
-  <img src=".img/ai.gif" alt="bibost" align="center", width='100%', height = 50px/>
-</a> 
 
 <a href="#bibost-title">
   <img src="https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bibost" align="right" />
@@ -65,9 +62,10 @@
       <br>NumPy
     </td>
   </tr>
+  <a href="#bibost-title">
+  <img src="./img/ai.gif" alt="bibost" align="right", width='150', height ='150' />
+  </a>
 </table>
-
-
 <!-- links -->
 
 [Netcetera]: https://www.netcetera.com/home.html "Netcetera"
