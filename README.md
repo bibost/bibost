@@ -24,7 +24,6 @@
 
 <table>
   <tr>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/Tensorflow_logo.svg" width="48" height="48" alt="Tensorflow" />
@@ -66,7 +65,6 @@
       </a>
       <br>NumPy
     </td>
-    
   </tr>
 </table>
 
