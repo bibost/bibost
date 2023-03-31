@@ -11,7 +11,9 @@
   <img src="https://raw.githubusercontent.com/bibost/github-stats-transparent/output/generated/overview.svg](https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bibost" align="right" />
 </a>
 
+<div align='right'>
 ![bibost's Stats](https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true)
+ </div>
 
 - 👨‍💼: &nbsp;I'm currently working at **[Netcetera]**
 - :rocket: &nbsp;I’m currently learning **Pytorch**
