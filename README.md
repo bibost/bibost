@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a href="#bibost-tech">
-        <img src="./img/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+        🐼
       </a>
       <br>Pandas
     </td>
