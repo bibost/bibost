@@ -8,8 +8,10 @@
 </p>
 
 <a href="#bibost-title">
-  <img src="https://raw.githubusercontent.com/bibost/github-stats-transparent/output/generated/overview.svg" alt="bibost" align="right" />
+  <img src="https://raw.githubusercontent.com/bibost/github-stats-transparent/output/generated/overview.svg](https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bibost" align="right" />
 </a>
+
+![bibost's Stats](https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 - 👨‍💼: &nbsp;I'm currently working at **[Netcetera]**
 - :rocket: &nbsp;I’m currently learning **Pytorch**
@@ -30,35 +32,30 @@
       </a>
       <br>Tensorflow
     </td>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/Scikit_learn_logo_small.svg" width="48" height="48" alt="Sklearn" />
       </a>
       <br>Scikit-Learn
     </td>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/Pytorch_logo_icon.svg" width="48" height="48" alt="Pytorch" />
       </a>
       <br>Pytorch
     </td>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/Python-logo-notext.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
-    
     <td align="center" width="96">
       <a href="#bibost-tech">
         <img src="./img/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
