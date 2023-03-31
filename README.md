@@ -8,7 +8,7 @@
 </p>
 
 <a href="#bibost-title">
-  <img src="https://media0.giphy.com/media/ojo7phd1NQJSE/giphy.gif" alt="bibost" align="center", width='100%', height = 150px/>
+  <img src="https://assets1.lottiefiles.com/packages/lf20_4kx2q32n.json" alt="bibost" align="center", width='100%', height = 50px/>
 </a> 
 
 <a href="#bibost-title">
