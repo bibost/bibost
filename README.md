@@ -7,11 +7,6 @@
   </a>
 </p>
 
-<a href="#bibost-title">
-  <img src="./img/ai.gif" alt="bibost" align="center", width='150', height ='150' />
-</a>
-
-<br>
 
 <a href="#bibost-title">
   <img src="https://github-readme-stats.vercel.app/api?username=bibost&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="bibost" align="right" />
@@ -68,6 +63,10 @@
     </td>
   </tr>
 </table>
+
+<a href="#bibost-title">
+  <img src="./img/ai.gif" alt="bibost" align="right", width='150', height ='150' />
+</a>
 
 
 <!-- links -->
