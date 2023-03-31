@@ -62,13 +62,10 @@
       <br>NumPy
     </td>
   </tr>
-</table>
-
-<a href="#bibost-title">
+  <a href="#bibost-title">
   <img src="./img/ai.gif" alt="bibost" align="right", width='150', height ='150' />
-</a>
-
-
+  </a>
+</table>
 <!-- links -->
 
 [Netcetera]: https://www.netcetera.com/home.html "Netcetera"
