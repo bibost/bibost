@@ -24,24 +24,49 @@
 
 <table>
   <tr>
+    
     <td align="center" width="96">
       <a href="#bibost-tech">
-        <img src="[./img/csharp-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png)" width="48" height="48" alt="Tensorflow" />
+        <img src="./img/Tensorflow_logo.svg" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#bibost-tech">
+        <img src="./img/Scikit_learn_logo_small.svg" width="48" height="48" alt="Sklearn" />
+      </a>
+      <br>Scikit-Learn
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#bibost-tech">
+        <img src="./img/Pytorch_logo_icon.svg" width="48" height="48" alt="Pytorch" />
+      </a>
+      <br>Pytorch
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#bibost-tech">
+        <img src="./img/Python-logo-notext.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#bibost-tech">
+        <img src="./img/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
+    
     <td align="center" width="96">
       <a href="#bibost-tech">
-        <img src="./img/Pandas_logo.svg" width="48" height="48" alt="Python" />
+        <img src="./img/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
       </a>
-      <br>Python
+      <br>NumPy
     </td>
-    <td align="center" width="96">
-      <a href="#bibost-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
+    
   </tr>
 </table>
 
