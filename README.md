@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: H!! I'm Boban Stevanović</h1>
-<h3 align="left">I am a student, currently doing my Bachelor's in Artificial Intelligence</h3>
+<h1 align="left" id="macropower-title">:wave: Hi! I'm Boban Stevanović 😉:</h1>
+<h3 align="left">I am a student, currently doing my Bachelor's in Artificial Intelligence! 🤖</h3>
 
 <p align="left">
   <a href="https://github.com/bibost/bibost">
@@ -11,8 +11,8 @@
   <img src="https://raw.githubusercontent.com/bibost/github-stats-transparent/output/generated/overview.svg" alt="bibost" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Netcetera]**
-- :seedling: &nbsp;I’m currently learning **Pytorch**
+- 👨‍💼: &nbsp;I'm currently working at **[Netcetera]**
+- :rocket: &nbsp;I’m currently learning **Pytorch**
 - :speech_balloon: &nbsp;I like to talk about **AI**, **Fitness**, **Business** and **Finance**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -25,25 +25,25 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#bibost-tech">
+        <img src="[./img/csharp-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png)" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#bibost-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#bibost-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#bibost-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
